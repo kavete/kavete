@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavete
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python 
 
 <!---
 kavete/kavete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
