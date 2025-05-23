@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavete
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning  Machine Learning
-- I'm also interested in the integration of software and hardware
+- 🌱 I'm also interested in the integration of software and hardware
 
 <!---
 kavete/kavete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
