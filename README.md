@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavete
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning  Machine Learning
 - I'm also interested in the integration of software and hardware
 
 <!---
